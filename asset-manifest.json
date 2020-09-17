@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/react-monsters-rolodex/static/css/main.c468ee5d.chunk.css",
-    "main.js": "/react-monsters-rolodex/static/js/main.13d56969.chunk.js",
-    "main.js.map": "/react-monsters-rolodex/static/js/main.13d56969.chunk.js.map",
-    "runtime-main.js": "/react-monsters-rolodex/static/js/runtime-main.c0c11226.js",
-    "runtime-main.js.map": "/react-monsters-rolodex/static/js/runtime-main.c0c11226.js.map",
-    "static/js/2.8a77c072.chunk.js": "/react-monsters-rolodex/static/js/2.8a77c072.chunk.js",
-    "static/js/2.8a77c072.chunk.js.map": "/react-monsters-rolodex/static/js/2.8a77c072.chunk.js.map",
-    "index.html": "/react-monsters-rolodex/index.html",
-    "precache-manifest.9522b6bc167afa9b4de39b2aff0062c1.js": "/react-monsters-rolodex/precache-manifest.9522b6bc167afa9b4de39b2aff0062c1.js",
-    "service-worker.js": "/react-monsters-rolodex/service-worker.js",
-    "static/css/main.c468ee5d.chunk.css.map": "/react-monsters-rolodex/static/css/main.c468ee5d.chunk.css.map",
-    "static/js/2.8a77c072.chunk.js.LICENSE.txt": "/react-monsters-rolodex/static/js/2.8a77c072.chunk.js.LICENSE.txt"
+    "main.css": "/react-trusting-autocomplete-darkmode/static/css/main.fa555abd.chunk.css",
+    "main.js": "/react-trusting-autocomplete-darkmode/static/js/main.f55a9d55.chunk.js",
+    "main.js.map": "/react-trusting-autocomplete-darkmode/static/js/main.f55a9d55.chunk.js.map",
+    "runtime-main.js": "/react-trusting-autocomplete-darkmode/static/js/runtime-main.12967996.js",
+    "runtime-main.js.map": "/react-trusting-autocomplete-darkmode/static/js/runtime-main.12967996.js.map",
+    "static/js/2.e622f563.chunk.js": "/react-trusting-autocomplete-darkmode/static/js/2.e622f563.chunk.js",
+    "static/js/2.e622f563.chunk.js.map": "/react-trusting-autocomplete-darkmode/static/js/2.e622f563.chunk.js.map",
+    "index.html": "/react-trusting-autocomplete-darkmode/index.html",
+    "precache-manifest.bce4a9334c28c4c0bf3c89e288ec3735.js": "/react-trusting-autocomplete-darkmode/precache-manifest.bce4a9334c28c4c0bf3c89e288ec3735.js",
+    "service-worker.js": "/react-trusting-autocomplete-darkmode/service-worker.js",
+    "static/css/main.fa555abd.chunk.css.map": "/react-trusting-autocomplete-darkmode/static/css/main.fa555abd.chunk.css.map",
+    "static/js/2.e622f563.chunk.js.LICENSE.txt": "/react-trusting-autocomplete-darkmode/static/js/2.e622f563.chunk.js.LICENSE.txt",
+    "static/media/airbnb-logo.59de6368.svg": "/react-trusting-autocomplete-darkmode/static/media/airbnb-logo.59de6368.svg",
+    "static/media/dark-theme.css": "/react-trusting-autocomplete-darkmode/static/media/background-dark.23f45e08.jpg",
+    "static/media/light-theme.css": "/react-trusting-autocomplete-darkmode/static/media/background.aee9f507.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0c11226.js",
-    "static/js/2.8a77c072.chunk.js",
-    "static/css/main.c468ee5d.chunk.css",
-    "static/js/main.13d56969.chunk.js"
+    "static/js/runtime-main.12967996.js",
+    "static/js/2.e622f563.chunk.js",
+    "static/css/main.fa555abd.chunk.css",
+    "static/js/main.f55a9d55.chunk.js"
   ]
 }
